@@ -8,7 +8,7 @@ BRANDS = []
     @brand = brand
     #if !(BRANDS.include?(@brand))
     BRANDS << @brands 
-  end
+  #end
   end
 
 
